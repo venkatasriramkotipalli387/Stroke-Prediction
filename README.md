@@ -1,6 +1,6 @@
 
 # Stroke-Prediction
-A Hybrid Machine Learning and Deep Learning Approach for Stroke Prediction. It addresses data imbalance, compares classical and neural models and applies hyperparameter optimization.
+A Web based Hybrid Machine Learning and Deep Learning Approach for Stroke Prediction. It addresses data imbalance, compares classical and neural models and applies hyperparameter optimization.
 
 Kaggle dataset link : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
