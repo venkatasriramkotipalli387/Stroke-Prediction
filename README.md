@@ -73,7 +73,7 @@ Analysed the results generated using confusion matrix - accuracy, precision, rec
 **Accuracies calculated:**
 1.	Logistic regression : **76.5%**
 2.	Decision Tree : **96.97%**
-3.	Random Forest : **98.51%**
+3.	Random Forest : **98.62%**
 4.	SVM : **77.3%**
 5.	Naive Bayers : **76.2%**
 6.	ANN : **78.04%**
@@ -81,5 +81,5 @@ Analysed the results generated using confusion matrix - accuracy, precision, rec
 
 Chosen model - **RANDOM FOREST**
 
-The accuracy of random forest model increased from 98.51% to 99.02% using hyperparameter tuning with GridSearchCV
+The accuracy of random forest model increased from 98.62% to 99.02% using hyperparameter tuning with GridSearchCV
 
