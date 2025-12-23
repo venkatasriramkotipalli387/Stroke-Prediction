@@ -47,8 +47,7 @@ def predict():
             smoking_status_never_smoked	=1
         elif smoking==3:
             smoking_status_smokes=1
-            
-
+    
         input_features = [age	,avg_glucose_level,	bmi	,gender_Male,hypertension_1,	heart_disease_1,ever_married_Yes,	work_type_Never_worked,	work_type_Private,	work_type_Self_employed,	work_type_children	,Residence_type_Urban,	smoking_status_formerly_smoked,smoking_status_never_smoked	,smoking_status_smokes]
 
         features_value = [np.array(input_features)]
